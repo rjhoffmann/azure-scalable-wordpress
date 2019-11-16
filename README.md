@@ -4,7 +4,9 @@ The initial script is Taken from Rob Conery's post on [Creating a Massively Scal
 
 ## Changes
  - PHP Settings
+
  By default PHP has an abysmally small maximum upload which will prevent the upload of quite a few Wordpress themes / plugins that need to be uploaded this way. (Purchased themes and plugins sometimes require upload).
 
  - Wordpress Volume
+ 
  Mounting the Wordpress Volume may prove useful
